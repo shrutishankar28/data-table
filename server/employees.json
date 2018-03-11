@@ -1,0 +1,107 @@
+{
+    "0" : {
+            "name" : "Shreya B Hegde",
+            "Year_Of_Joining": 2017,
+            "designation": "Product Consultant",
+            "linkedIn": "https://www.linkedin.com/in/shreya-b-hegde-76670999",
+            "imageURL": "https://media.licdn.com/media/AAIA_wDGAAAAAQAAAAAAAAm-AAAAJGJjNjcxNTcxLTI0NTMtNGY1Yy1iNmM2LWIyMWI0ZmI5MmJhMQ.jpg"
+            },
+    "1" : {
+            "name" : "Shravan Sukumar",
+            "Year_Of_Joining": 2017,
+            "designation": "iOS Developer",
+            "linkedIn": "https://www.linkedin.com/in/shravansukumar",
+            "imageURL": "https://media.licdn.com/media/p/8/005/0b3/2fb/28a1156.jpg"
+    },
+    "2" : {
+            "name" : "Vinay Agrrawal",
+            "Year_Of_Joining": 2016,
+            "designation": "Founder and CEO",
+            "linkedIn": "https://www.linkedin.com/in/vinay-agrrawal",
+            "imageURL": "https://media.licdn.com/media/AAEAAQAAAAAAAA3NAAAAJGRiNjQwMjUyLTBjY2QtNDY0Yy1iNGJmLTRkZTgyYjg4ZTQ0ZA.jpg"
+    },
+    "3" : {
+            "name" : "Nikhil Zacharia",
+            "Year_Of_Joining": 2016,
+            "designation": "Frontend Developer",
+            "linkedIn": "https://www.linkedin.com/in/nikhil-zacharia-509379a9",
+            "imageURL":"https://media.licdn.com/media/AAEAAQAAAAAAAAh7AAAAJDg4MTRiZWFkLWQ2YTAtNDJlOS04YjAzLTcwYWE4MmYwOTQ1MQ.jpg"
+    },
+    "4" : {
+            "name" : "Vignesh K",
+            "Year_Of_Joining": 2015,
+            "designation": "UI/UX Designer",
+            "linkedIn": "https://www.linkedin.com/in/vignesh1811/",
+            "imageURL":"https://media.licdn.com/media/p/5/000/282/0f7/2a78c65.jpg"
+    },
+    "5" : {
+            "name" : "Keshav Raj",
+            "Year_Of_Joining": 2017,
+            "designation": "iOS Developer",
+            "linkedIn": "https://www.linkedin.com/in/keshav-raj-625bb6127/",
+            "imageURL":"https://media.licdn.com/media/AAEAAQAAAAAAAAlUAAAAJDdjNTg2ZjkxLWNkNWMtNDc2NC1iMDI5LWI4MDI4OGJmNWNkYg.jpg"
+    },
+    "6" : {
+            "name" : "Manish Kumar",
+            "Year_Of_Joining": 2015,
+            "designation": "Quality Analyst",
+            "linkedIn": "https://www.linkedin.com/in/manish-kumar-6b916aa6/",
+            "imageURL":"https://media.licdn.com/media/AAEAAQAAAAAAAARcAAAAJGU3MjMyYjI4LThiM2UtNDQ1Zi1iZjlkLWUxYjA0OTBkNGJjNg.jpg"
+    },
+    "7" : {
+            "name" : "Gangadhar Tegginmath (Tanmay)",
+            "Year_Of_Joining": 2017,
+            "designation": "Growth and marketing manager",
+            "linkedIn": "https://www.linkedin.com/in/tegginmath/",
+            "imageURL":"https://media.licdn.com/media/AAEAAQAAAAAAAA1HAAAAJDQ0NTk1NjlkLWVkNWUtNGE5Ni05OGRhLTcyZGIwN2ZmNjBkOA.jpg"
+    },
+    "8" : {
+            "name" : "Adarsh Hatwar",
+            "Year_Of_Joining": 2017,
+            "designation": "Backend Developer",
+            "linkedIn": "https://www.linkedin.com/in/adarsh-hatwar-015241a0/",
+            "imageURL":"https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAsQAAAAJDJjZTA4ZTA3LTBiODUtNDc1YS04ODY2LTExM2RmMThiZWM3Yg.jpg"
+    },
+    "9" : {
+            "name" : "Ranjith Chaz",
+            "Year_Of_Joining": 2012,
+            "designation": "CTO",
+            "linkedIn": "https://www.linkedin.com/in/ranjith-chaz-1537a68/",
+            "imageURL":"https://media.licdn.com/media/p/1/000/196/1c2/22350f5.jpg"
+    },
+    "10" : {
+            "name" : "Amith Ray",
+            "Year_Of_Joining": 2016,
+            "designation": "COO",
+            "linkedIn": "https://www.linkedin.com/in/amit-ray-b86450b/",
+            "imageURL":"https://media.licdn.com/media/AAEAAQAAAAAAAAjEAAAAJDQ1ZDIyMDI0LTc2ZWUtNDVlNi04M2JiLTQzNDFhMmNkMzdlYg.jpg"
+    },
+    "11" : {
+            "name" : "Sudesh Sakthivel",
+            "Year_Of_Joining": 2018,
+            "designation": "Frontend Developer",
+            "linkedIn": "https://www.linkedin.com/in/sudesh-sakthivel-0a3965122/",
+            "imageURL":"https://media.licdn.com/media/AAEAAQAAAAAAAAuzAAAAJDMyYjVlZjk3LWRhOWYtNGRjZS05NTA3LWU5NWI1MzY2MTYyYw.jpg"
+    },
+    "12" : {
+            "name" : "Kousik Chowdhur",
+            "Year_Of_Joining": 2015,
+            "designation": "Tech Lead",
+            "linkedIn": "https://www.linkedin.com/in/kousikchowdhury/",
+            "imageURL":"https://media.licdn.com/media/AAIA_wDGAAAAAQAAAAAAAA0YAAAAJDcxOTJiZWMyLTQ4YzMtNGYyYS1iMWY4LWVjMjZkODQ3NTc3MA.jpg"
+    },
+    "13" : {
+            "name" : "Greeshma R.Sindhe",
+            "Year_Of_Joining": 2016,
+            "designation": "Backend Developer",
+            "linkedIn": "https://www.linkedin.com/in/greeshmar/",
+            "imageURL":"https://media.licdn.com/media/AAEAAQAAAAAAAAY4AAAAJDEyNDQxZjk2LWNlMDQtNDhjMi1hOTAzLTAzNzRkYjRlZjZhZA.jpg"
+    },
+    "14" : {
+            "name" : "Deepak Joshi",
+            "Year_Of_Joining": 2016,
+            "designation": "Android Developer",
+            "linkedIn": "https://www.linkedin.com/in/deepak-joshi-44623a102/",
+            "imageURL":"https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAkQAAAAJDFmY2UzMTUwLTk4NmYtNDliNy1iMzk4LTE0Y2ZmNGU4YzdiZA.jpg"
+    }
+}

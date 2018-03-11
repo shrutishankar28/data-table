@@ -1,0 +1,22 @@
+.grid-wrapper {
+    border-radius: 8px;
+    border: 1px solid #cccccc;
+    background:white;
+    position: relative
+}
+
+.search-btn {
+    top: 6px;
+    right: 20px;
+    position: absolute;
+    background:none;
+    border:none;
+}
+
+.label {
+    font-weight: 300;
+    margin-right: 10px; 
+    color: #333;
+    font-size: 15px;
+}
+
