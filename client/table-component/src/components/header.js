@@ -44,7 +44,7 @@ class HeaderComponent extends React.Component {
 
     renderDropDown = () => {
         return (
-            <div className="col-sm-4">
+            <div className="col-sm-4 sort-by">
                 <label className="label">Sort By</label>
                 <DropdownButton
                     className="dropdown-btn"

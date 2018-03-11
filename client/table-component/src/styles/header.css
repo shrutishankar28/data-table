@@ -1,6 +1,5 @@
 .grid-wrapper {
     border-radius: 8px;
-    border: 1px solid #cccccc;
     background:white;
     position: relative
 }
@@ -20,3 +19,6 @@
     font-size: 15px;
 }
 
+.sort-by {
+    text-align: center;
+}

@@ -2,6 +2,14 @@
 .wrapper{
     border-radius: 8px;
     border: 1px solid #cccccc;
-    background: #dddddd;
+    background: #ddd;
 }
 
+.header-componet-wrapper {
+    padding: 20px;
+    background: #ffffff;
+}
+
+.heading {
+    margin-bottom: 20px;
+}

@@ -59,30 +59,33 @@ class TableContent extends React.Component {
     renderRow = (employeeInfo, key) => {
         return(
             <tr key={key}>
-                <td className="text-center">
+                <td className="text-center table-cell">
                     <Image className="img-accounts" src={employeeInfo.imageURL}/>
                 </td>
-                <td className="text-center">{employeeInfo.name}</td>
-                <td className="text-center">{employeeInfo.designation}</td>
-                <td className="text-center">{employeeInfo.Year_Of_Joining}</td>
-                <td className="text-center">{employeeInfo.linkedIn || 'NA'}</td>
+                <td className="text-center table-cell">{employeeInfo.name}</td>
+                <td className="text-center table-cell">{employeeInfo.designation}</td>
+                <td className="text-center table-cell">{employeeInfo.Year_Of_Joining}</td>
+                <td className="text-center table-cell">
+                    <a href={employeeInfo.linkedIn}> {employeeInfo.linkedIn} </a>
+                </td>
             </tr>
         );
     }
 
     renderFooter = () => {
         return (
-            <div className="footer-wrapper pull-right">
+            <div className="footer-wrapper">
                 { map(this.state.buttonArray, (button, index) => {
                     return(
                         <Button 
+                            className="pagination-btn"
                             key={index}
-                            bsSize="small"
+                            bsSize="md"
                             onClick={() => this.requestPage(button)}
                             style={{
                                 backgroundColor: (index === (this.state.activePageIndex - 1))
-                                ? '#dddddd'
-                                : 'white'
+                                ? 'white'
+                                : '#dddddd'
                             }}
                         >{button}
                         </Button>
@@ -94,7 +97,7 @@ class TableContent extends React.Component {
 
     renderBody = () => {
         return(
-            <table className="table table-striped">
+            <table className="table table-striped custom-table">
                 <thead>
                     <tr>
                         <th className="text-center">Profile-picture</th>

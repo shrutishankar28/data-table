@@ -1,9 +1,28 @@
 .img-accounts {
     border: 1px solid #ccc !important;
-    height: 100px;
-    width: 100px;
+    height: 72px;
+    width: 72px;
     object-fit: cover;
     border-radius: 50%;
     margin-left: 15px;
 }
 
+.table-cell {
+    vertical-align: middle !important;
+}
+
+.pagination-btn {
+    margin: 5px;
+}
+
+.footer-wrapper {
+    text-align: center;
+}
+
+.table-wrapper {
+    padding: 15px;
+}
+
+.table {
+    border: 1px solid #ccc;
+}

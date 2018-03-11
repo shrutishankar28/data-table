@@ -71,12 +71,14 @@ class DataTable extends React.Component {
         return(
             <div className="wrapper">
                 <div className="text-center">
-                    <h1>The Hubbler Team</h1>
+                    <h1 className="heading">The Hubbler Team</h1>
                 </div>
-                <HeaderComponent
-                    onFilter={this.onFilter}
-                    onSort={this.onSort}
-                />
+                <div className="header-componet-wrapper">
+                    <HeaderComponent
+                        onFilter={this.onFilter}
+                        onSort={this.onSort}
+                    />
+                </div>
                 <TableContent
                     data={this.state.filtered ? this.state.filteredData: this.state.data}
                     loading={this.state.loading}
