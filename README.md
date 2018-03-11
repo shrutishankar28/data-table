@@ -1,3 +1,15 @@
 ### A simple data-table component made using React and Node.
 
-The fron-end uses React and the data in the tables is populated using responses from node server.
+Goto the root project directory and run the following commands :
+
+#Server
+
+```$ cd server```
+```$ npm install```
+```$ node index.js```
+
+#Client: 
+
+```$ cd client/table-component```
+```$ npm install```
+```$ npm run start```
