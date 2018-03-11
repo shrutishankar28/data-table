@@ -2,14 +2,26 @@
 
 Goto the root project directory and run the following commands :
 
-##Server
+Server
 
-```$ cd server```
-```$ npm install```
-```$ node index.js```
+```bash 
+cd server
+```
+```bash 
+npm install
+```
+```bash
+node index.js
+```
 
-##Client: 
+Client: 
 
-```$ cd client/table-component```
-```$ npm install```
-```$ npm run start```
+```bash
+cd client/table-component
+```
+```bash
+npm install
+```
+```bash
+npm run start
+```
